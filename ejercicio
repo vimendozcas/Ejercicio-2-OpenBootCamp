@@ -1,5 +1,5 @@
 // Ejercicio con if
-let numeroIf = // asigna un valor aquí
+let numeroIf = 0;
 
 if (numeroIf < 0) {
     console.log("El número es negativo");
@@ -31,7 +31,7 @@ for (let numeroFor = 0; numeroFor <= 3; numeroFor++) {
 }
 
 // Ejercicio con switch
-let estacion = // asigna un valor aquí
+let estacion = "otoño";
 
 switch (estacion) {
     case "primavera":
